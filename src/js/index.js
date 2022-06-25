@@ -6,7 +6,7 @@ import ReactDOM from "react-dom";
 import "../styles/index.css";
 
 //import your own components
-import Rend from "/workspace/react-hello/src/js/component/Rend.jsx";
+import Rend from "./component/Rend.jsx"
 
 
 //render your react application

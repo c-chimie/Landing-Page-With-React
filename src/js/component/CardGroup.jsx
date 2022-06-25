@@ -23,7 +23,7 @@ const cardInfo = [{
 
 const CardGroup = () => {
   return (
-    <div className="d-flex p-3 mb-4 justify-content-around">
+    <div className="d-flex flex-wrap p-3 mb-4 justify-content-around">
         {cardInfo.map( (card, i) => {
             return <Card key={i} cardProp={card} />
         })}

@@ -1,7 +1,7 @@
 import React from "react";
 
-import NavBar from "/workspace/react-hello/src/js/component/NavBar.jsx"
-import Jumbotron from "/workspace/react-hello/src/js/component/Jumbotron.jsx";
+import NavBar from "./NavBar.jsx";
+import Jumbotron from "./Jumbotron.jsx";
 import Footer from "./Footer.jsx";
 import CardGroup from "./CardGroup.jsx";
 
